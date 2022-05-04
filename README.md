@@ -1,1 +1,1 @@
-DEMO: https://hidden-retreat-62560.herokuapp.com/catalog
+DEMO: https://obscure-escarpment-97830.herokuapp.com/catalog
